@@ -25,4 +25,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win00N&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-<p><a href="https://leetcode.com/nursm/" target="_blank">Leetcode</a> </p>
+<a href="https://leetcode.com/nursm/" target="_blank">Leetcode</a>
