@@ -24,5 +24,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=win00N&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
