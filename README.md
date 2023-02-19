@@ -24,3 +24,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=win00N&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nursm)](https://github.com/madushadhanushka/github-readme)
+
