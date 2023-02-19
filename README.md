@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Nursat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 <h3 align="center">
   Computer science student
 </h3>
-<h4>
-   ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-</h4>
+
+
+
 
 
 
