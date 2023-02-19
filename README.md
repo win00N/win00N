@@ -21,7 +21,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1000&center=true&vCenter=true&width=435&lines=I+like+write+code+%E2%9D%A4)](https://git.io/typing-svg)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win00N&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
